@@ -1,4 +1,4 @@
-# Plugin Concept: SCP-079's Game Show
+# Plugin: SCP-079 Game Show
 
 ## Overview
 
